@@ -1,0 +1,87 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4136940600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "User should navigate to online slots page successfully",
+        "description": "",
+        "id": "homepage-online-slots-category-test;user-should-navigate-to-online-slots-page-successfully",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 101311500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on the homepage",
+            "match": {
+              "location": "HomePageSteps.iAmOnTheHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 108019800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I accept cookies",
+            "match": {
+              "location": "HomePageSteps.iAcceptCookies()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 127162300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on Online Slots catagory",
+            "match": {
+              "location": "HomePageSteps.iClickOnOnlineSlotsCatagory()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 608635900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I should navigate to Online Slots category page",
+            "match": {
+              "location": "HomePageSteps.iShouldNavigateToOnlineSlotsCategoryPage()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "Homepage Online Slots Category Test",
+    "description": "\r\nAs a use I should be able to navigate to Online Slots page",
+    "id": "homepage-online-slots-category-test",
+    "keyword": "Feature",
+    "uri": "onlineslot.feature"
+  }
+]

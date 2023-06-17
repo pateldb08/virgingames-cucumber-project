@@ -1,0 +1,6 @@
+2023-06-16 00:06:928 INFO  HomePage :28 - Clicking on cookies : [[ChromeDriver: chrome on WINDOWS (2ce8be0123078f837a43e718bd14a286)] -> xpath: (//label[@class='dialog_button'])[2]]
+2023-06-16 00:06:60 INFO  HomePage :34 - Clicking on Online Slots catagory : [[ChromeDriver: chrome on WINDOWS (2ce8be0123078f837a43e718bd14a286)] -> xpath: //span[contains(text(),'Online Slots')]]
+2023-06-16 00:06:266 INFO  OnlineSlotsPage :23 - Getting online slots text : [[ChromeDriver: chrome on WINDOWS (2ce8be0123078f837a43e718bd14a286)] -> xpath: //h1[text() = 'Play Online Slots at Virgin Games']]
+2023-06-16 00:06:44 INFO  HomePage :28 - Clicking on cookies : [[ChromeDriver: chrome on WINDOWS (3b6ff8335f2b850de544ca01a0a3eae1)] -> xpath: (//label[@class='dialog_button'])[2]]
+2023-06-16 00:06:179 INFO  HomePage :34 - Clicking on Online Slots catagory : [[ChromeDriver: chrome on WINDOWS (3b6ff8335f2b850de544ca01a0a3eae1)] -> xpath: //span[contains(text(),'Online Slots')]]
+2023-06-16 00:06:297 INFO  OnlineSlotsPage :23 - Getting online slots text : [[ChromeDriver: chrome on WINDOWS (3b6ff8335f2b850de544ca01a0a3eae1)] -> xpath: //h1[text() = 'Play Online Slots at Virgin Games']]
